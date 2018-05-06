@@ -57,3 +57,6 @@ To get the data as an array of coordinates, look at `binvox_rw.read_binvox_coord
 
 Daniel Maturana
 `dimatura@cmu.edu`
+
+
+test
