@@ -13,3 +13,5 @@ Gallery: at https://picasaweb.google.com/112791664800738604413/BinvoxViewvoxForM
 Credits: software from http://www.patrickmin.com/minecraft/, GLUT DLL from http://www.xmission.com/~nate/glut.html
 hand model from http://shapes.aim-at-shape.net/viewgroup.php?id=354#
 chevalier model from who knows where.
+
+donuttest.py is a mcpi example which will build donut.binvox in minecraft
