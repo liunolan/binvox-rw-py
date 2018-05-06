@@ -71,4 +71,4 @@ Daniel Maturana
 `dimatura@cmu.edu`
 
 
-test
+mincraft mcpi ready
